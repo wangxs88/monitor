@@ -1,3 +1,3 @@
-module github.com/wangxs88/monitor/tool
+module github.com/wangxs88/monitor
 
 go 1.17
